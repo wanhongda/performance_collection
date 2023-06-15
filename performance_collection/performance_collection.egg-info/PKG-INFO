@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: performance-collection
+Version: 0.0.3
+Summary: A public script library
+Home-page: https://github.com/wanhongda/performance_collection.git
+Author: wanhongda
+Author-email: 451546614@qq.com
+License: Apache License 2.0
+Description: Public Script Library of quality management department
+Keywords: performance_collection
+Platform: any

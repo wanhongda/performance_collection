@@ -1,0 +1,11 @@
+MANIFEST.in
+requirements.txt
+setup.py
+performance_collection/__init__.py
+performance_collection/connect_device.py
+performance_collection/performance_collection.py
+performance_collection.egg-info/PKG-INFO
+performance_collection.egg-info/SOURCES.txt
+performance_collection.egg-info/dependency_links.txt
+performance_collection.egg-info/requires.txt
+performance_collection.egg-info/top_level.txt
